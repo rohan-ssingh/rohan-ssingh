@@ -10,17 +10,16 @@
 
 ## About Me
 
-I'm a CS major at [Columbia Engineering](https://engineering.columbia.edu) (Egleston Scholar) interested in ML, AI agents, cybersecurity, and quant finance.
+I'm a CS major at [Columbia Engineering](https://engineering.columbia.edu) interested in ML, AI agents, cybersecurity, and software.
 
 **Experience:**
-- AI Research Intern @ [Bastazo](https://bastazo.com) — building DQN models to predict cyber attack decisions, deployed to 32 international OT clients
-- Software & AI Intern @ [Acadia Pharmaceuticals](https://www.acadia-pharm.com) — AI-enabled platforms for internal knowledge and hiring workflows
-- ML & Software Research Assistant @ [Columbia Engineering](https://engineering.columbia.edu) — LLM reliability and interpretability research at the Systems Software Lab
-- Associate @ [Columbia Venture Partners](https://columbiaventurepartners.com)
-- First-Year Trading & Technology Program @ [Jane Street](https://www.janestreet.com)
+- AI Research Intern @ [Bastazo (HF0-Backed Startup](https://bastazo.com) — building DQN/RL models to predict cyber attack decisions
+- ML Researcher @ [Columbia Systems Software Lab](https://systems.cs.columbia.edu) — LLM reliability and interpretability
+- SWE Intern @ [Walmart Global Tech](https://tech.walmart.com) — computer vision & mobile apps
 
 **Publications:**
-- [Accelerating cough-based TB screening — CODA TB DREAM Challenge](https://academic.oup.com) · Oxford Academic · 2nd place
+- [Operationalizing Cybersecurity Governance for Mitigation Planning with Attack-Path Modeling and Reinforcement Learning](https://arxiv.org/abs/2605.09792) · arXiv · 4th author
+- [Accelerating cough-based TB screening — CODA TB DREAM Challenge](https://academic.oup.com) · Oxford Academic · Consortium author
 - [Deep Learning Artificial Pancreas](https://biorxiv.org) · bioRxiv · 1st author, patent-pending
 - [TraceMonitor: AI Chrome Extension for Privacy Leakage](https://ieeexplore.ieee.org) · IEEE GreenTech · 1st author
 
@@ -54,11 +53,3 @@ I'm always open to collaborating on interesting ML, agent, infra, or startup pro
 </p>
 
 ---
-
-## Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rohan-ssingh/rohan-ssingh/blob/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/rohan-ssingh/rohan-ssingh/blob/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://github.com/rohan-ssingh/rohan-ssingh/blob/output/github-contribution-grid-snake.svg"/>
-</picture>
