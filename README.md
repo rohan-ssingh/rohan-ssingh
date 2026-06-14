@@ -13,14 +13,14 @@
 I'm a CS major at [Columbia Engineering](https://engineering.columbia.edu) interested in ML, AI agents, cybersecurity, and software.
 
 **Experience:**
-- AI Research Intern @ [Bastazo (HF0-Backed Startup](https://bastazo.com) — building DQN/RL models to predict cyber attack decisions
+- AI Research Intern @ [Bastazo (HF0-Backed Startup)](https://bastazo.com) — building DQN/RL models to predict cyber attack decisions
 - ML Researcher @ [Columbia Systems Software Lab](https://systems.cs.columbia.edu) — LLM reliability and interpretability
 - SWE Intern @ [Walmart Global Tech](https://tech.walmart.com) — computer vision & mobile apps
 
 **Publications:**
-- [Operationalizing Cybersecurity Governance for Mitigation Planning with Attack-Path Modeling and Reinforcement Learning](https://arxiv.org/abs/2605.09792) · arXiv · 4th author
-- [Accelerating cough-based TB screening — CODA TB DREAM Challenge](https://academic.oup.com) · Oxford Academic · Consortium author
-- [Deep Learning Artificial Pancreas](https://biorxiv.org) · bioRxiv · 1st author, patent-pending
+- [Operationalizing Cybersecurity Governance for Mitigation Planning with Attack-Path Modeling and RL](https://arxiv.org/abs/2605.09792) · arXiv · 4th author
+- [Accelerating cough-based TB screening Algorithms — CODA TB DREAM Challenge](https://academic.oup.com) · Oxford Academic · consortium author
+- [Novel Bihormonal Artificial Pancreas](https://biorxiv.org) · bioRxiv · 1st author, patent-pending
 - [TraceMonitor: AI Chrome Extension for Privacy Leakage](https://ieeexplore.ieee.org) · IEEE GreenTech · 1st author
 
 I'm always open to collaborating on interesting ML, agent, infra, or startup projects.
@@ -31,17 +31,22 @@ I'm always open to collaborating on interesting ML, agent, infra, or startup pro
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 </p>
-
 ---
 
 ## GitHub Stats
