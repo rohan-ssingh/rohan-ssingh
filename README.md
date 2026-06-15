@@ -18,7 +18,7 @@ I'm a CS major at [Columbia Engineering](https://engineering.columbia.edu) inter
 - SWE Intern @ [Walmart Global Tech](https://tech.walmart.com) — computer vision & mobile apps
 
 **Publications:**
-- [Operationalizing Cybersecurity Governance for Mitigation Planning with Attack-Path Modeling and RL](https://arxiv.org/abs/2605.09792) · arXiv · 4th author
+- [Operationalizing Cybersecurity Governance for Mitigation Planning with RL](https://arxiv.org/abs/2605.09792) · arXiv · 4th author
 - [TraceMonitor: AI Chrome Extension for Privacy Leakage](https://ieeexplore.ieee.org) · IEEE GreenTech · 1st author
 - [Accelerating cough-based TB screening Algorithms — CODA TB DREAM Challenge](https://academic.oup.com) · Oxford Academic · consortium author
 - [Novel Bihormonal Artificial Pancreas](https://biorxiv.org) · bioRxiv · 1st author, patent-pending
