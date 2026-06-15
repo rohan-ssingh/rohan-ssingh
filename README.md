@@ -15,7 +15,7 @@ I'm a CS major at [Columbia Engineering](https://engineering.columbia.edu) inter
 **Experience:**
 - AI Research Intern @ [Bastazo (HF0-Backed Startup)](https://bastazo.com) — building DQN/RL models to predict cyber attack decisions
 - ML Researcher @ [Columbia Systems Software Lab](https://systems.cs.columbia.edu) — LLM reliability and interpretability
-- SWE Intern @ [Walmart Global Tech](https://tech.walmart.com) — computer vision & mobile apps
+- Prev. SWE Intern @ [Walmart Global Tech](https://tech.walmart.com) — computer vision & mobile apps
 
 **Publications:**
 - [Operationalizing Cybersecurity Governance for Mitigation Planning with RL](https://arxiv.org/abs/2605.09792) · arXiv · 4th author
