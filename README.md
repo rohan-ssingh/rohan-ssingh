@@ -47,11 +47,3 @@ I'm always open to collaborating on interesting ML, agent, infra, or startup pro
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
-
-## GitHub Stats
-
-## <p align="center">
-##  <img src="https://github-readme-stats.vercel.app/api?username=rohan-ssingh&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
-##  &nbsp;
-##  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-ssingh&layout=compact&theme=default&hide_border=true" height="165"/>
-## </p>
